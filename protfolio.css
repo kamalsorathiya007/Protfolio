@@ -1,0 +1,37 @@
+*{
+    color: black;
+    font-family: 'Segoe UI';
+}
+.link{
+    color: black;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+.titles{
+    border: 1px solid black;
+    align-items: center;
+    border-radius: 30px;
+    border-bottom-left-radius: 0px;
+    justify-content: center;
+    background:linear-gradient(to right, #32F6F6 , #9EACA5) ;
+    border: none;
+    font-weight: 1000;
+    
+}
+.CV{
+    border: 2px solid white;
+    border-color:white ;
+    background-color: orange;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    font-weight: 1000;
+    color: white;
+
+}
+.Touch{
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    font-weight: 1000;
+
+}
